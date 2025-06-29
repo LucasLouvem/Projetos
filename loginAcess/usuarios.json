@@ -1,0 +1,20 @@
+[
+    {
+        "nome": "lucas gomes da silva louvem",
+        "idade": 22,
+        "cidade": "Rio de Janeiro",
+        "curso": "Sistemas da Informação"
+    },
+    {
+        "nome": "roberto dos santos pinheiro",
+        "idade": 45,
+        "cidade": "São Paulo",
+        "curso": "Analise e desenvolvimento de sistemas"
+    },
+    {
+        "nome": "lucas pinheiro dos santos",
+        "idade": 16,
+        "cidade": "Bahia",
+        "curso": "Medicina"
+    }
+]
